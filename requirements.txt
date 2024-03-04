@@ -1,0 +1,7 @@
+# 
+selenium
+keyboard
+undetected-chromedriver
+pandas
+#use link to install the chrome driver if yourversion is above - 112-115 https://googlechromelabs.github.io/chrome-for-testing/
+# However Drive might not be needed if you are about to use undetected-chromedirver. Refer to this video - https://www.youtube.com/watch?v=6SDzRN1aHiI
